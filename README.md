@@ -50,4 +50,4 @@ The compositional disorder play a fundamental role in charge and vibrational tra
 > Generates a crystalline (without impurities) composition to the lattice.
 
 [`Uniform disorder case`](./generators/uniform-disorder.c)
-> Generates a uniform disordered composition to the lattice. 
+> Generates a uniform disordered composition to the lattice.
