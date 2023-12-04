@@ -3,7 +3,7 @@
 ![Linguagem C](https://img.shields.io/badge/Linguagem%20C-555555?style=plastic)
 ![GNU Scientific Library](https://img.shields.io/badge/GNU%20Scientific%20Library-800000?style=plastic)
 
-Autor: [C. Antunis B. da S. Santos](https://github.com/carlos-antunis-physics/)
+Author: [C. Antunis B. da S. Santos](https://github.com/carlos-antunis-physics/)
 
 > This repository aims to provide generators of the most proeminent compositional distribuitions used in low-dimensional systems
 
