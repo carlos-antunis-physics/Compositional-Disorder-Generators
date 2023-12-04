@@ -5,7 +5,7 @@
 
 Autor: [C. Antunis B. da S. Santos](https://github.com/carlos-antunis-physics/)
 
-> This repository aims to provide generators of the most proeminent compositional generators used in low-dimensional systems
+> This repository aims to provide generators of the most proeminent compositional distribuitions used in low-dimensional systems
 
 ## Compositional disorder generation methods
 
