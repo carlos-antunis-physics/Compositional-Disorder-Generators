@@ -7,6 +7,18 @@ Autor: [C. Antunis B. da S. Santos](https://github.com/carlos-antunis-physics/)
 
 > This repository aims to provide generators of the most proeminent compositional generators used in low-dimensional systems
 
+## Compositional disorder generation methods
+
+The compositional disorder play a fundamental role in charge and vibrational transport, the computational routines to obtain the composition of a lattice provided by this repo is:
+
+[`Crystalline case`](./generators/crystalline.c)
+> Generates a crystalline (without impurities) composition to the lattice.
+
+[`Uniform disorder case`](./generators/uniform-disorder.c)
+> Generates a uniform disordered composition to the lattice.
+
+### GNU Scientific Library
+
 Most of the source-codes in this repo uses the [GNU Scientific Library](https://www.gnu.org/software/gsl/) (a numerical methods library developed in `C` programming language, distribuited beneath `GNU General Public License`), so please ensure that it is present in your computer.
 
 > **Installing GSL**
@@ -42,12 +54,3 @@ Most of the source-codes in this repo uses the [GNU Scientific Library](https://
 > rm file.o                                              # Remove object file
 > ```
 
-## Compositional disorder generation methods
-
-The compositional disorder play a fundamental role in charge and vibrational transport, the computational routines to obtain the composition of a lattice provided by this repo is:
-
-[`Crystalline case`](./generators/crystalline.c)
-> Generates a crystalline (without impurities) composition to the lattice.
-
-[`Uniform disorder case`](./generators/uniform-disorder.c)
-> Generates a uniform disordered composition to the lattice.
